@@ -66,10 +66,10 @@ body {
   background-color: #D02B5B;
 }
 .align-items-center {
-  margin-left: 30px;
-  margin-right: 30px;
-  margin-top: 40px;
-  margin-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 40px;
+  padding-bottom: 20px;
 }
 .services-text {
   
@@ -118,4 +118,9 @@ body {
 }
 .orange {
   background-color: #FFAD82;
+}
+.peach .orange h4 {
+  padding-left: 50px;
+  padding-right: 50px;
+  line-height: 5px;
 }
